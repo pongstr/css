@@ -1,5 +1,15 @@
 # @primer/css
 
+## 19.0.0
+
+### Major Changes
+
+- [#1716](https://github.com/primer/css/pull/1716) [`9b97dc8f`](https://github.com/primer/css/commit/9b97dc8fec28e44d8619aff6da636ecd8e48daf9) Thanks [@tobiasahlin](https://github.com/tobiasahlin)! - Update marketing buttons (including color mode support)
+
+### Patch Changes
+
+- [#1746](https://github.com/primer/css/pull/1746) [`9e6b5f56`](https://github.com/primer/css/commit/9e6b5f5671ab60e3a9d452f516fb7b38173f0135) Thanks [@simurai](https://github.com/simurai)! - Remove `Label` bg hack
+
 ## 18.2.0
 
 ### Minor Changes
